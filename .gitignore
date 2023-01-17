@@ -1,0 +1,7 @@
+.vscode
+a.out
+*.txt
+!readme.txt
+
+current-output
+expected-output
